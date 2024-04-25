@@ -1,0 +1,2 @@
+# latihan_lks_smk_2024_it_solution_software_provinsi_jawa_barat_desktop
+latihan_lks_smk_2024_it_solution_software_provinsi_jawa_barat_desktop menggunakan c#
