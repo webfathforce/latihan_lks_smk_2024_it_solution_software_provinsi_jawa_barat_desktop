@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Latihan LKS\\Github\\LatihanLKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\latihanlks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:latihanlks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|d:\\latihan lks\\github\\latihanlks\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|d:\\latihan lks\\github\\latihanlks\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|d:\\latihan lks\\github\\latihanlks\\adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:adminpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|d:\\latihan lks\\github\\latihanlks\\gudangpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:gudangpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|d:\\latihan lks\\github\\latihanlks\\kasirpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:kasirpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|D:\\Latihan LKS\\Github\\LatihanLKS\\latihanlks.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56C405D4-B33F-41F7-BDF4-0C21EA069904}|LatihanLKS.csproj|solutionrelative:latihanlks.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:52:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "AdminPage.xaml",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\AdminPage.xaml",
+              "RelativeToolTip": "AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T00:18:43.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LatihanLKS.csproj",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\LatihanLKS.csproj",
+              "RelativeDocumentMoniker": "LatihanLKS.csproj",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\LatihanLKS.csproj",
+              "RelativeToolTip": "LatihanLKS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T00:16:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\Controller.cs",
+              "RelativeDocumentMoniker": "Controller.cs",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\Controller.cs",
+              "RelativeToolTip": "Controller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:51:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "AdminPage.xaml.cs",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\AdminPage.xaml.cs",
+              "RelativeToolTip": "AdminPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:22:02.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T22:53:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:53:06.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\ModelBase.cs",
+              "RelativeDocumentMoniker": "ModelBase.cs",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\ModelBase.cs",
+              "RelativeToolTip": "ModelBase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:22:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GudangPage.xaml",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\GudangPage.xaml",
+              "RelativeDocumentMoniker": "GudangPage.xaml",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\GudangPage.xaml",
+              "RelativeToolTip": "GudangPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T07:44:18.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KasirPage.xaml",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\KasirPage.xaml",
+              "RelativeDocumentMoniker": "KasirPage.xaml",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\KasirPage.xaml",
+              "RelativeToolTip": "KasirPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T07:45:17.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LatihanLKS",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\LatihanLKS.csproj",
+              "RelativeDocumentMoniker": "LatihanLKS.csproj",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\LatihanLKS.csproj",
+              "RelativeToolTip": "LatihanLKS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T00:44:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Latihan LKS\\Github\\LatihanLKS\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Latihan LKS\\Github\\LatihanLKS\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T07:19:56.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
