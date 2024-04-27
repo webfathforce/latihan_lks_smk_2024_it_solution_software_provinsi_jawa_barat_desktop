@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Resources\food xyz logo.png" />
+    <Resource Include="Resources\food_xyz_logo.png" />
     <Resource Include="Resources\admin.png" />
   </ItemGroup>
 

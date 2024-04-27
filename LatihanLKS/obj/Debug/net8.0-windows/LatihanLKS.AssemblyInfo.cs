@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LatihanLKS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22418bc946d210c9904e8a0e7970e3b62f1e69ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c98350538d5a1f71cd4c2fb0b3594a425a0dd36")]
 [assembly: System.Reflection.AssemblyProductAttribute("LatihanLKS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LatihanLKS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
