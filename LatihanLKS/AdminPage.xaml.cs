@@ -14,6 +14,7 @@ using System.Windows.Shapes;
 using System.Data.SqlClient;
 using LatihanLKS.Properties;
 using System.Data;
+using static LatihanLKS.Controller;
 
 namespace LatihanLKS
 {
@@ -31,6 +32,21 @@ namespace LatihanLKS
             ItemsControl ds = new ItemsControl();
             da.Equals(ds);
             Console.WriteLine(da);
+        }
+
+        private void Logout(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void toKelolaUser(object sender, RoutedEventArgs e)
+        {
+            redirect("kelola_user");
+        }
+
+        private void toKelolaLaporan(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

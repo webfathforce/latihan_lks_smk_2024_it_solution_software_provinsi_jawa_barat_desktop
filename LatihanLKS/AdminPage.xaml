@@ -8,25 +8,52 @@
         mc:Ignorable="d"
         Title="AdminPage" Height="450" Width="800">
     <Grid>
-        <StackPanel Width="232" Background="SkyBlue" Margin="0,0,568,0">
-            <Label Content="Admin" FontSize="24" FontFamily="Bahnschrift" HorizontalAlignment="Center"/>
-            <Image Height="100" Width="100" Source="/Resources/admin.png"/>
-            <Button x:Name="kelola_user_button" Content="Kelola User" FontFamily="Bahnschrift" FontWeight="Bold" HorizontalAlignment="Center" FontSize="16" Padding="15,5,15,5" Background="SteelBlue" Margin="0,100,0,0">
-                <Button.Effect>
-                    <DropShadowEffect ShadowDepth="3" BlurRadius="15" Color="Gray" Direction="-138"/>
-                </Button.Effect>
-            </Button>
-            <Button x:Name="kelola_laporan_button" Content="Kelola User" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="16" Padding="15,5,15,5" Background="SteelBlue" VerticalContentAlignment="Center" HorizontalAlignment="Center" Margin="0,15,0,0">
-                <Button.Effect>
-                    <DropShadowEffect ShadowDepth="3" BlurRadius="15" Color="Gray" Direction="-138"/>
-                </Button.Effect>
-            </Button>
-            <Button x:Name="kelola_user_button_Copy1" Content="Kelola User" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="16" Padding="15,5,15,5" Background="SteelBlue" HorizontalAlignment="Center" Margin="0,15,0,0">
-                <Button.Effect>
-                    <DropShadowEffect ShadowDepth="3" BlurRadius="15" Color="Gray" Direction="-138"/>
-                </Button.Effect>
-            </Button>
-        </StackPanel>
-        <DataGrid x:Name="log_data" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="237,254,10,0"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="75*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="DeepSkyBlue">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="50*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="ADMIN" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Image Grid.Row="1" Source="/Resources/admin.png"/>
+            <StackPanel Grid.Row="3">
+                <Button Margin="10,5,10,5" Content="Kelola User" FontSize="16" FontWeight="Bold" Click="toKelolaUser"/>
+                <Button Margin="10,5,10,5" Content="Kelola Laporan" FontSize="16" FontWeight="Bold" Click="toKelolaLaporan"/>
+                <Button Margin="10,5,10,5" Content="Logout" FontSize="16" FontWeight="Bold" Click="Logout"/>
+            </StackPanel>
+        </Grid>
+        <GridSplitter Grid.Column="1" HorizontalAlignment="Center" Width="10"/>
+        <Grid Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="70*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="Log Activity" FontSize="24" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="50*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Text="Pilih Tanggal" FontSize="16" VerticalAlignment="Bottom" Margin="10,0,0,0"/>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+                    <DatePicker Grid.Column="0" FontSize="16" VerticalAlignment="Top" Margin="10,5,0,0"/>
+                    <Button Grid.Column="1" Content="Fillter" FontSize="16" FontWeight="Bold" Width="200" HorizontalAlignment="Left" VerticalAlignment="top" Margin="10,5,0,0"/>
+                </Grid>
+            </Grid>
+            <GridSplitter Grid.Row="2" Height="10" HorizontalAlignment="Stretch"/>
+            <DataGrid Grid.Row="3" Margin="10"/>
+        </Grid>
     </Grid>
 </Window>

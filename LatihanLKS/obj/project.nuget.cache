@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYZUA8ltkRP+hosaGiApCvy0TKSfdBQ3/Z+oZ17hQPgpYgEc15U9//uTkuDunP/jSZi/YaEwRV+46EIhsxDtTg==",
+  "dgSpecHash": "wjn3MV1pfTW5bsY9zS/0KK7dUg/J7m1QBkjEfSkyB8TtGTl+1rjTWVnEDZ/opQoSrOYvqDy2DExPmSCkbiiwWQ==",
   "success": true,
-  "projectFilePath": "D:\\Latihan LKS\\Github\\LatihanLKS\\LatihanLKS.csproj",
+  "projectFilePath": "D:\\Latihan LKS\\Github\\Desktop\\latihan_lks_smk_2024_it_solution_software_provinsi_jawa_barat_desktop\\LatihanLKS\\LatihanLKS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyBook PRO K7V\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\MyBook PRO K7V\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
